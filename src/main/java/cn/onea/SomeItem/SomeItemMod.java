@@ -13,6 +13,6 @@ public class SomeItemMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello SomeItem world!");
-		Someitems.init();
+		Someitems.initialize();
 	}
 }
