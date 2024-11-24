@@ -3,7 +3,7 @@
 	"package": "cn.onea.SomeItem.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"SIClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

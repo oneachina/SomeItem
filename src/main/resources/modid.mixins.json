@@ -3,7 +3,7 @@
 	"package": "cn.onea.SomeItem.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"SIMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
