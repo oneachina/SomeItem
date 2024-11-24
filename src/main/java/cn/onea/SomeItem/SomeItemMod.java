@@ -1,5 +1,6 @@
 package cn.onea.SomeItem;
 
+import cn.onea.SomeItem.Item.Someitems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,5 +13,6 @@ public class SomeItemMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello SomeItem world!");
+		Someitems.init();
 	}
 }
