@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "cn.onea.SomeItem.ExampleMod"
+          "cn.onea.SomeItem.SomeItemMod"
 		],
 		"client": [
-          "cn.onea.SomeItem.ExampleModClient"
+          "cn.onea.SomeItem.SomeItemModClient"
 		]
 	},
 	"mixins": [
